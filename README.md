@@ -31,7 +31,7 @@ This is mostly an archive of serversides.
 * Neutron (Neutralized) (Unleaked)
 * Nova (Unknown) (Unleaked)
 * Project D3TH (Neutralized & Owner was outed for doing extremely horrible things to a 17 year old) (Unleaked)
-* Remium
+* Remium (Ongoing) (Unleaked)
 * ss.fun Tools (Unknown) (Unleaked)
 * ss.fun (Ongoing) (Unleaked)
 * ss.space (Unknown) (Unleaked)
